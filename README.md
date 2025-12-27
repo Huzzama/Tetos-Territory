@@ -1,0 +1,2 @@
+# Tetos-Territory
+This is just a simple project *ignore it*
